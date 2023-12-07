@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Order Up</string>
+    <string name="todo">TODO</string>
+    <string name="all_rights_are_reserved">© All rights are reserved</string>
+    <string name="Title_bar">Order Up</string>
+    <string name="hi_harsh">Hi, Harsh</string>
+    <string name="order_amp_eat"><![CDATA[Order & Eat]]></string>
+    <string name="home">Home</string>
+    <string name="popular">Popular</string>
+    <string name="find_your_food">Find your food</string>
+    <string name="cartbtn">cartBtn</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="backgroundopacity">#8A5A5858</color>
+    <color name="startcolorgradient">#FFF2F5F6</color>
+    <color name="endcolorgradient">#FF0099DD</color>
+    <color name="startcolorgradient_signup">#FFC0E3F3</color>
+    <color name="endcolorgradient_signup">#FF0099DD</color>
+    <color name="fbcolor">#3c62ac</color>
+    <color name="googleplus_color">#c3463B</color>
+
+
+
+
+
+</resources>
