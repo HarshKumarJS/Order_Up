@@ -1,2 +1,10 @@
 # Order_Up
-It is a food-ordering Android application. Currently, it is in its simplest form and changes can be made according to requirements in the future.
+
+The Order_Up is a Java-based application with a graphical user interface (GUI). It aims to order the desired food conveniently. This application is in its simplest form and changes can be made according to future requirements.
+
+Key Features:
+
+   1. Sign In Panel: This panel
+
+
+
